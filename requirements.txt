@@ -1,0 +1,4 @@
+llama-cpp-python==0.2.32
+pymupdf==1.22.5
+streamlit==1.35.0
+pyarrow==16.1.0
